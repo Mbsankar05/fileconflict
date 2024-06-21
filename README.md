@@ -1,0 +1,2 @@
+# fileconflict
+staging area
